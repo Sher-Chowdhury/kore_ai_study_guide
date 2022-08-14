@@ -1,4 +1,6 @@
 ## Intents
 
-https://academy.kore.ai/learningpath/course-101---introduction-to-koreai-experience-automation-platform
 
+
+
+See wiki - https://github.com/Sher-Chowdhury/kore_ai_study_guide/wiki
